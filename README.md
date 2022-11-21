@@ -1,5 +1,5 @@
 
-### Live Demo : https://kiwifarah.github.io/to-do-list/
+Live Demo : https://kiwifarah.github.io/to-do-list/
 
 # Getting Started with Create React App
 
