@@ -43,7 +43,7 @@ function App() {
   return (
     <div className='app'>
       <div className="container">
-        <h1><GiHornedHelm /> Powerlist</h1>
+        <h1><GiHornedHelm /> TO DO LIST</h1>
 
         <div className="date">
           <p>{days[date.getDay()]}</p>
